@@ -52,7 +52,7 @@
 ### 🏁 Beyond the Screen
 
 <p align="center">
-  🏍️ Motorcycles &nbsp;·&nbsp; 🚗 Cars &nbsp;·&nbsp; ✈️ Airlines & aviation &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; 🏋️ Gym
+  🏍️ Motorcycles &nbsp;·&nbsp; 🚗 Cars &nbsp;·&nbsp; ✈️ Travel &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; 🏋️ Gym
 </p>
 
 ---
